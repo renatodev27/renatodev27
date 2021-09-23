@@ -52,9 +52,9 @@ Mi nombre es **Renato**, tengo 28 años y soy egresado del Instituto Superior Te
     - Mensajería : Módulo de chat entre los usuarios del sistema en tiempo real.
     - Notificaciones : Salto de notificaciones en tiempo real según ejecución requerida.
 
-- Desarrollo de Aplicaciones de Escritorio y Web
+- Desarrollo de Aplicaciones de Escritorio, Web y Android
     - Cajas registradoras
     - Ecommerce
     - Almacén e inventarios
     - Reservas
-    - Administración (Escuelas, Institutos, etc)
+    - Administración
