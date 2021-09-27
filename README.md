@@ -60,4 +60,4 @@ Mi nombre es **Renato**, tengo 28 años y soy egresado del Instituto Superior Te
     - Administración
 
 ## Portafolio
-- https://renatodev27.github.io/portfolio/
+<a href="https://renatodev27.github.io/portfolio/">Muestra de mis proyectos</a>
